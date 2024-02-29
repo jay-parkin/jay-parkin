@@ -24,6 +24,7 @@ a solid grasp of SQL.
 
 Let's connect and explore opportunities to work together!
 
+
 ## Work History
 
 ### IT Support @ Jb Metropolitan Distributors, 2013 - Present
@@ -47,3 +48,17 @@ distinct locations.
 ● Engineered visitor system for emergency scenarios.
 ● Automated numerous repetitive tasks, significantly enhancing
 workforce productivity by reclaiming valuable hours.
+
+
+## Education
+
+### University of Newcastle
+- Postgraduate: Information Technology Feb 2023 - Dec 2023
+- Skills: Cloud Computing · Analytical Skills · Cascading Style Sheets (CSS) · Information Technology · Application Development · Programming · Java · Software Development · Eclipse · JavaScript · HTML · Business Analysis · Problem Analysis · Software Design · Database Management System (DBMS) · SQL
+
+### CoderAcademy
+- Diploma: Information Technology Feb 2024 - Present
+- Coding Bootcamp
+
+### RMIT University
+- Undergraduate: Java Programming Feb 2019 - May 2019
