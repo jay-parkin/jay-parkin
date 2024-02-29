@@ -2,7 +2,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jay-parkin/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/jay-parkin/jay-parkin/raw/master/assets/linkedin-imgur.jpg"/></a>
+  <a href="https://www.linkedin.com/in/jay-parkin/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/jay-parkin/jay-parkin/blob/main/assets/linkedin-imgur.jpg"/></a>
   <a href="https://discordapp.com/users/251163577711460353" alt="Discord" title="Discord Profile"><img width="32px" src="https://imgur.com/qV4QgUN"/></a>
 </p>
 
