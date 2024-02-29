@@ -6,6 +6,8 @@
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.4/src/app/ci.min.css"
 />
+
+<i class="ci ci-spotify ci-2x"></i>
 </p>
 
 # About
