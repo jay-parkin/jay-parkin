@@ -2,12 +2,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.4/src/app/ci.min.css"
-/>
-
-<i class="ci ci-spotify ci-2x"></i>
+  <a href="https://www.linkedin.com/in/jay-parkin/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp"/></a>
+  <a href="https://discordapp.com/users/251163577711460353" alt="Discord" title="Discord Profile"><img width="32px" src="https://imgur.com/qV4QgUN"/></a>
 </p>
 
 # About
