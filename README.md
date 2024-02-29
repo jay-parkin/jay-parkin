@@ -54,7 +54,7 @@ workforce productivity by reclaiming valuable hours.
 
 ### University of Newcastle
 - Postgraduate: Information Technology Feb 2023 - Dec 2023
-- Skills: Cloud Computing · Analytical Skills · Cascading Style Sheets (CSS) · Information Technology · Application Development · Programming · Java · Software Development · Eclipse · JavaScript · HTML · Business Analysis · Problem Analysis · Software Design · Database Management System (DBMS) · SQL
+- Subjects: Cloud Computing · Analytical Skills · Cascading Style Sheets (CSS) · Application Development · Programming · Java · Software Development · JavaScript · HTML · Business Analysis · Problem Analysis · Software Design · Database Management System (DBMS) · SQL
 
 ### CoderAcademy
 - Diploma: Information Technology Feb 2024 - Present
