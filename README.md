@@ -22,19 +22,6 @@ HTML, CSS, and frameworks like React and Angular. My proficiency extends to
 database management, covering all aspects from design to optimisation, with
 a solid grasp of SQL.
 
-I'm well-versed in version control systems such as Git, making collaborative
-software development a seamless process. I excel in debugging, testing, and
-deploying software applications, ensuring they meet the highest standards.
-My understanding of software architecture, security, and performance
-optimisation is thorough, and I'm committed to staying updated with the
-latest industry trends and technologies.
-
-I thrive in a collaborative team environment, effectively communicating for
-cross-functional projects and problem-solving. My adaptability and strong
-problem-solving abilities come into play when project requirements change,
-and I remain dedicated to delivering high-quality code, meeting deadlines,
-and exceeding client expectations. 
-
 Let's connect and explore opportunities to work together!
 
 ## Work History
