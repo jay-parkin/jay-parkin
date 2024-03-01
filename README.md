@@ -11,8 +11,6 @@
 
 </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-parkin&show_icons=true&theme=radical)
-
 # About
 
 As a detail-oriented and highly organised software developer, I bring
@@ -64,3 +62,7 @@ workforce productivity by reclaiming valuable hours.
 
 ### RMIT University
 - Undergraduate: Java Programming Feb 2019 - May 2019
+
+<p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-parkin&show_icons=true&theme=radical)
+</p>
