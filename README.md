@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jay-parkin/"><img width="70px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/jay-parkin/jay-parkin/main/assets/linkedin-imgur.png"/></a>
   <a href="https://discordapp.com/users/251163577711460353" alt="Discord" title="Discord Profile"><img width="70px" src="https://raw.githubusercontent.com/jay-parkin/jay-parkin/main/assets/discord-imgur.png"/></a>
-  <a href="jay-parkin91@hotmail.com" alt="Email" title="Email Me"><img width="70px" src="https://raw.githubusercontent.com/jay-parkin/jay-parkin/main/assets/email-imgur.png"/></a>
+  <a href="mailto:jay-parkin91@hotmail.com" alt="Email" title="Email Me"><img width="70px" src="https://raw.githubusercontent.com/jay-parkin/jay-parkin/main/assets/email-imgur.png"/></a>
 </p>
 
 # About
