@@ -1,6 +1,8 @@
  # Jason Parkin 
 
-![](https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square" alt="Profile Views"/>
+</p>
 
 
 <!-- Social icons section -->
@@ -62,7 +64,3 @@ workforce productivity by reclaiming valuable hours.
 
 ### RMIT University
 - Undergraduate: Java Programming Feb 2019 - May 2019
-
-<p>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-parkin&show_icons=true&theme=radical)
-</p>
