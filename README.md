@@ -1,8 +1,7 @@
  # Jason Parkin 
 
-<p align="right">
 ![](https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square)
-</p>
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -12,7 +11,8 @@
 
 </p>
 
- 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-parkin&show_icons=true&theme=radical)
+
 # About
 
 As a detail-oriented and highly organised software developer, I bring
