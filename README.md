@@ -1,4 +1,4 @@
- # Jason Parkin ![](https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square)
+ # Jason Parkin
 
  <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square" alt="Profile Views"/>
