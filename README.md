@@ -9,7 +9,7 @@
 
 </p>
 
-
+ 
 # About
 
 As a detail-oriented and highly organised software developer, I bring
