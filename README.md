@@ -6,7 +6,7 @@
   <a href="https://discordapp.com/users/251163577711460353" alt="Discord" title="Discord Profile"><img width="70px" src="https://raw.githubusercontent.com/jay-parkin/jay-parkin/main/assets/discord-imgur.png"/></a>
   <a href="mailto:jay-parkin91@hotmail.com" alt="Email" title="Email Me"><img width="70px" src="https://raw.githubusercontent.com/jay-parkin/jay-parkin/main/assets/email-imgur.png"/></a>
 
-  ![Visitor Count](https://profile-counter.glitch.me/jay-parkin/count.svg)
+ ![](https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square)
 </p>
 
 
