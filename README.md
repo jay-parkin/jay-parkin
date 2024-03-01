@@ -1,4 +1,5 @@
  # Jason Parkin 
+![City and Weather](https://yourdomain.com/path/to/weather-badge.png)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square" alt="Profile Views"/>
