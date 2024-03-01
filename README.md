@@ -1,7 +1,7 @@
- # Jason Parkin
+ # Jason Parkin 
 
  <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square" alt="Profile Views"/>
+  ![](https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square)
 </p>
 
 <!-- Social icons section -->
