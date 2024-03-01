@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square" alt="Profile Views"/>
 </p>
 
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jay-parkin/"><img width="70px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/jay-parkin/jay-parkin/main/assets/linkedin-imgur.png"/></a>
@@ -54,13 +53,13 @@ workforce productivity by reclaiming valuable hours.
 
 ## Education
 
-### University of Newcastle
-- Postgraduate: Information Technology Feb 2023 - Dec 2023
-- Subjects: Cloud Computing · Analytical Skills · Cascading Style Sheets (CSS) · Application Development · Programming · Java · Software Development · JavaScript · HTML · Business Analysis · Problem Analysis · Software Design · Database Management System (DBMS) · SQL
-
 ### CoderAcademy
 - Diploma: Information Technology Feb 2024 - Present
 - Coding Bootcamp
+
+### University of Newcastle
+- Postgraduate: Information Technology Feb 2023 - Dec 2023
+- Subjects: Cloud Computing · Analytical Skills · Cascading Style Sheets (CSS) · Application Development · Programming · Java · Software Development · JavaScript · HTML · Business Analysis · Problem Analysis · Software Design · Database Management System (DBMS) · SQL
 
 ### RMIT University
 - Undergraduate: Java Programming Feb 2019 - May 2019
