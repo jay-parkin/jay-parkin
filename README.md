@@ -1,8 +1,4 @@
- # Jason Parkin 
-<p align="right">
-  ![](https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square)
-</p>
-
+ # Jason Parkin ![](https://komarev.com/ghpvc/?username=jay-parkin&style=flat-square)
 
 <!-- Social icons section -->
 <p align="center">
