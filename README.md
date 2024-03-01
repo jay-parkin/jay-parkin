@@ -28,7 +28,7 @@ Let's connect and explore opportunities to work together!
 
 ## Work History
 
-### IT @ Jb Metropolitan Distributors, 2013 - Present
+### IT  @ Jb Metropolitan Distributors, 2013 - Present
 
 I provide technical support to over 100 employees across four remote
 locations. I diagnose hardware and network problems using advanced
