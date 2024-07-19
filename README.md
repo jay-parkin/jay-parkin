@@ -30,7 +30,7 @@ Let's connect and explore opportunities to work together!
 
 ### IT  @ Jb Metropolitan Distributors, 2013 - Present
 
-I provide technical support to over 100 employees across four remote
+I provide technical support to over 100 employees across five remote
 locations. I diagnose hardware and network problems using advanced
 troubleshooting techniques. My goal is to enhance software security to
 protect against vulnerabilities, ensuring data integrity. Additionally, I
