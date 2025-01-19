@@ -54,7 +54,7 @@ workforce productivity by reclaiming valuable hours.
 ## Education
 
 ### CoderAcademy
-- Diploma: Information Technology Feb 2024 - Present
+- Diploma: Information Technology Feb 2024 - Dec 2024
 - Coding Bootcamp
 
 ### University of Newcastle
