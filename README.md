@@ -27,6 +27,10 @@ Let's connect and explore opportunities to work together!
 
 ## Education
 
+### Torrens University
+- Postgraduate: Master of Software Engineering Feb 2025 - Dec 2026
+- Artificial Intelligence (AI)
+
 ### CoderAcademy
 - Diploma: Information Technology Feb 2024 - Dec 2024
 - Coding Bootcamp
