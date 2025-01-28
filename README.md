@@ -21,35 +21,9 @@ languages including Java, Python, C++, and JavaScript.
 I have a proven track record in web application development, leveraging
 HTML, CSS, and frameworks like React and Angular. My proficiency extends to
 database management, covering all aspects from design to optimisation, with
-a solid grasp of SQL.
+a solid grasp of SQL & Mongo.
 
 Let's connect and explore opportunities to work together!
-
-
-## Work History
-
-### IT  @ Jb Metropolitan Distributors, 2013 - Present
-
-I provide technical support to over 100 employees across five remote
-locations. I diagnose hardware and network problems using advanced
-troubleshooting techniques. My goal is to enhance software security to
-protect against vulnerabilities, ensuring data integrity. Additionally, I
-configure hardware and authorise system access for new staff members. I also
-guide customers in issue identification and explain solutions to restore
-service. If I discover potential sales opportunities, I promptly report them
-to my supervisor. I respond quickly to sales leads and technical support
-requests as part of my responsibilities.
-
-Key accomplishments:
-● Spearheaded special projects, including Java-based staff QR Bundy
-system and visitor log system, and a JavaScript chatbot utilising Google's
-API for real-time data feed to users.
-● Designed and implemented employee system operational in two
-distinct locations.
-● Engineered visitor system for emergency scenarios.
-● Automated numerous repetitive tasks, significantly enhancing
-workforce productivity by reclaiming valuable hours.
-
 
 ## Education
 
